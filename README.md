@@ -3,6 +3,7 @@
 ## Task
 
 Answer the following questions:
+
 ● Go to the w3schools website’s SQL browser IDE(https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all). 
 
 This is where you can write and test your SQL code using their databases. Once you are happy with it, paste your code in a text file named Student.txt and save it in your task folder.
